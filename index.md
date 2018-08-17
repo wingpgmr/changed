@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Jihye Leee"
+title: "wingpgmr"
 main: true
-subtitle: UI Designer Jihye Leee at RIDI
-description: Jihye Leee, who is a Product Designer based in Seoul, South Korea focused on UI/UX, interaction. | '이지혜' UI 디자이너입니다. 리디에서 일합니다.
+subtitle: Computer vision Engineer | Programmer
+description: Hello
 ---
 <div class="intro-animation">
 <section class="explanation">
@@ -19,7 +19,7 @@ description: Jihye Leee, who is a Product Designer based in Seoul, South Korea f
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">'이지혜' 디지털 프로덕트 디자이너입니다. 리디에서 일합니다.</h2>
+    <h2 class="intro">Hello!</h2>
 </section>
 </div>
 
