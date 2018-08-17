@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Blog"
+title: "Computer Vision"
 main: true
 project-header: true
 header-img: img/blog.jpg
