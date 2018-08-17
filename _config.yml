@@ -2,9 +2,9 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Jihye Leee
+title:          wingpgmr
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "http://wingpgmr.github.io"
 
 # Assets
 sass:
@@ -16,13 +16,13 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jihye Leee
-  url:          http://jihyeleee.com/
-  email:        iam.leejihye@gmail.com  
-  github:       iamleejihye
-  twitter:      playpingpong
+  name:         wingpgmr
+  url:          http://wingpgmr.github.io/
+  email:        wingpgmr@gmail.com  
+  github:       wingpgmr
+  facebook:     wingpgmr
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/iamleejihye/iamleejihye.github.io
+  repo:         https://github.com/wingpgmr/wingpgmr.github.io
