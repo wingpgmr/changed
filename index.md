@@ -8,12 +8,12 @@ description: Hello
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Jihye Leee,
+    I'm Wingpgmr,
     </h1>
-    <h1 class="intro">a Digital Product Designer at 
+    <h1 class="intro">Computer vision Engineer | Programmer at
         <div class="intro-link">
-            <a class="transition" href="http://ridicorp.com/" target="_blank">
-                RIDI
+            <a class="transition" href="http://keti.re.kr/" target="_blank">
+                KETI
             </a>
             <div class="underline-mask transition"></div>
             <div class="underline"></div>
