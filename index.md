@@ -10,9 +10,9 @@ description: Hello
     <h1 class="intro">
     I'm Wingpgmr,
     </h1>
-    <h1 class="intro">Computer vision Engineer | Programmer at
+    <h1 class="intro">a Computer Vision Engineer at
         <div class="intro-link">
-            <a class="transition" href="http://keti.re.kr/" target="_blank">
+            <a class="transition" href="http://www.keti.re.kr/" target="_blank">
                 KETI
             </a>
             <div class="underline-mask transition"></div>
