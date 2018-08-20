@@ -4,3 +4,5 @@
 - name: Object Detection
 - name: Object Tracking
 - name: Multiple Object Tracking
+- name: Machine Vision
+- name: Collaborative Robot
