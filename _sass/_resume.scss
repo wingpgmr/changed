@@ -105,6 +105,22 @@ section.research {
     }
 }
 
+section.skills {
+    svg {
+        width: 24px;
+        fill: $purple;
+        position: absolute;
+    }
+    padding-bottom: 72px;
+    
+    li.skill_name {
+        display: inline-block;
+        font-family: $source;
+        padding: 4px 14px;
+        font-size: 16px;
+        margin: 0 8px 14px 0;
+    }
+}
 
 @keyframes moving {
     from {
