@@ -20,13 +20,7 @@ description: Hello
         </div>.
     </h1>
     <h2 class="intro">
-        Hello!
-        
-        
-        Please send me an [email](mailto:wingpgmr@gmail.com) :)
-    
-
-    </h2>
+        Hello! Please send me an [email](mailto:wingpgmr@gmail.com) :) </h2>
 </section>
 </div>
 
