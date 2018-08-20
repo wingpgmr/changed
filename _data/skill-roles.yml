@@ -1,8 +1,8 @@
-- name: Computer Vision
-- name: Deep Learning
-- name: Visual SLAM
-- name: Object Detection
-- name: Object Tracking
-- name: Multiple Object Tracking
-- name: Machine Vision
-- name: Collaborative Robot
+- name: Programming Language
+- name: C++, C, MATLAB
+- name: Programming Libraries
+- name: OpenCV, MFC
+- name: Hardware
+- name: Monocular and stereo cameras, Machine Vision Smart Camera, Collaborative Robot(UR)
+- name: Design
+- name: UX & UI design (designed new version of Inno-eye, machine vision software program)
