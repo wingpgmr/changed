@@ -1,9 +1,6 @@
-- name: UI Design
-- name: UX Design
-- name: Visual Design
-- name: Interaction Design
-- name: Prototyping
-- name: UI Animation
-- name: Illustration
-- name: Wireframing
-- name: Copywriting
+- name: Computer Vision
+- name: Deep Learning
+- name: Visual SLAM
+- name: Object Detection
+- name: Object Tracking
+- name: Multiple Object Tracking
