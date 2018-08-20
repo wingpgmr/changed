@@ -19,8 +19,18 @@ description: Hello
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">Hello!</h2>
+    <h2 class="intro">
+        Hello!
+        
+        
+        Please send me an [email](mailto:wingpgmr@gmail.com) :)
+    
+
+    </h2>
 </section>
 </div>
 
 {% include resume.html %}
+
+
+<br />
