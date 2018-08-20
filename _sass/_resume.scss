@@ -116,6 +116,8 @@ section.skills {
         display: inline-block;
         font-family: $source;
         padding: 4px 14px;
+        border-radius: 100px;
+        border: solid 1px $grey-2;
         font-size: 16px;
         margin: 0 8px 14px 0;
     }
