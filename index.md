@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "wingpgmr"
+title: "Sungick Kong"
 main: true
-subtitle: Computer vision Engineer | Programmer
+subtitle: Computer Vision Engineer
 description: Hello
 ---
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Wingpgmr,
+    I'm Sungick Kong,
     </h1>
     <h1 class="intro">a Computer Vision Engineer at
         <div class="intro-link">
@@ -19,12 +19,15 @@ description: Hello
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">
-        Hello! Please send me an [email](mailto:wingpgmr@gmail.com) :) </h2>
 </section>
 </div>
 
-{% include resume.html %}
 
+# Hello!
+Please send me an [email](mailto:sungick.kong@gmail.com) :)
+
+## Bye
+
+{% include resume.html %}
 
 <br />
