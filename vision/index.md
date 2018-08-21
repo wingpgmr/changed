@@ -4,7 +4,7 @@ title: "Computer Vision"
 main: true
 project-header: true
 header-img: img/blog.jpg
-description: 관심 분야의 글을 아주 가끔씩 올립니다.
+description: Computer Vision
 ---
 
 <ul class="catalogue">
