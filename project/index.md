@@ -1,6 +1,6 @@
 ---
 layout: default
-work: true
+experience: true
 main: true
 title: Selected Projects
 project-header: true
