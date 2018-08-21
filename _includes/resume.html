@@ -59,9 +59,11 @@
         </p>
     </div>    
     <ul>
-    	<li class="skills_name">
-		{{ skills.name }}
-    	</li>
+	    {% for research in site.data.skills %}
+		<li class="skills_name">
+			{{ skills.name }}
+		</li>
+	    {% endfor %}
     </ul>
 </section>
 	
