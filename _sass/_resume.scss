@@ -86,69 +86,7 @@ div.resume-info {
     }
 }
 
-.education {
-    
-    .workplace {
-        width: 100%;
-        padding: 30px 0;
-        border-top: 1px solid $grey-2;
-        
-        .workplace-name {
-            font-family: $san-serif;
-            font-size: 20px;
-            font-weight: 700;
-            width: 50%;
-            float: left;
-            
-            @media (max-width: $break-small) {
-                float: none;
-                width: 100%;
-            }
-            
-        }
 
-        .work-info {
-            display: inline-block;
-            
-            p.work-sub-info {
-                color: $default-tint;
-                font-size: 16px;
-                font-family: $source;
-                font-weight: 400;
-            }
-        }
-        
-        svg {
-            width: 24px;
-            float: right;
-        }
-    }
-    
-    .workplace:last-child {
-        border-bottom: 1px solid $grey-2;
-    }
-    
-    a {
-        .view-all-projects {
-            display: inline-block;
-            color: $default-tint;
-            font-size: 18px;
-            font-family: $source;
-            font-weight: 600;
-            margin: 20px 0;
-            
-            svg {
-                width: 20px;
-                fill: $default-tint;
-                vertical-align: middle;
-                margin-left: 6px;
-            }
-        }
-    }
-    a:hover {
-        opacity: .6;
-    }
-}
 
 section.research {
     svg {
