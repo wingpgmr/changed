@@ -3,7 +3,7 @@ layout: default
 title: "Computer Vision"
 main: true
 project-header: true
-header-img: img/blog.jpg
+header-img: img/about.jpg
 description: Computer Vision 에 관하여 글을 올립니다.
 ---
 
